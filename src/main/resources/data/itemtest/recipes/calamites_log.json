@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "itemtest:calamites"
+    }
+  },
+  "result": {
+    "item": "itemtest:calamites_log"
+  }
+}
